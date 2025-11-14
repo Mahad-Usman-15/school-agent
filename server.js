@@ -16,7 +16,7 @@ The School has been nurturing students since early 2017.
 It began with only six students and now operates in a purpose-built facility, run by
 experienced professional educators who have impacted hundreds of young lives.
 
-Abdul Rehman is the founder and heart of Footsteps, with over 25 years of experience
+Abdul Rehman is the founder and heart of , with over 25 years of experience
 teaching preschool and primary students. he built the school from humble beginnings and
 has grown it into a reputable, high-quality institution with a hand-picked team.
 
