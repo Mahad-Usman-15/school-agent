@@ -14,7 +14,7 @@ let usermessage;
    Function to get full bot response
 -------------------------------------*/
 async function generateResponse(userMessage, loaderBubble) {
-  const response = await fetch("https://mahad-usman-15.github.io/school-agent/gemini", {
+  const response = await fetch("http://localhost:5000/gemini", {
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify({ message: userMessage }),
