@@ -9,6 +9,8 @@ app.use(cors({
   origin: ["https://mahad-usman-15.github.io/school-agent/"],
   methods: ["GET", "POST", "PUT", "DELETE"],
   credentials: true,
+  allowedHeaders:[ "Content-Type","application/json"],
+
 }));
     // SCHOOL KNOWLEDGE BASE
 
