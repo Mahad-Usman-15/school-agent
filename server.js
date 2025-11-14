@@ -80,6 +80,6 @@ User: ${userMessage}
   }
 });
 
-app.listen(5000, () => {
-  console.log(" Server running on port 5000");
+app.listen("https://mahad-usman-15.github.io/school-agent/", () => {
+  console.log(" Server running on https://mahad-usman-15.github.io/school-agent/");
 });
