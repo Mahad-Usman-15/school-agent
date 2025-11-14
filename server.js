@@ -52,7 +52,7 @@ Always answer using the following school information:
 ${SCHOOL_CONTEXT}
 
 Be professional, warm, parent-friendly, and informative.
-
+If the user ask about anything else so use your intelligence to answer it.
 User: ${userMessage}
                   `,
                 },
