@@ -113,7 +113,7 @@
 
 /* ===== Chatbox (Messages Area) ===== */
 .chatbot .chatbox {
-  height: 420px;
+  height: 300px;
   padding: 20px;
   overflow-y: auto;
   background: #f8f9ff;
